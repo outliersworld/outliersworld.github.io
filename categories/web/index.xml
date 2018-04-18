@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Outliers</title>
+    <link>/categories/web/</link>
+    <description>Recent content in Web on Outliers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sounds of Mumbai</title>
+      <link>/projects/som/</link>
+      <pubDate>Mon, 16 Apr 2018 03:46:22 -0400</pubDate>
+      
+      <guid>/projects/som/</guid>
+      <description>Hello ji kaise ho</description>
+    </item>
+    
+    <item>
+      <title>Indecoded</title>
+      <link>/projects/indecoded/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/indecoded/</guid>
+      <description>Arey re</description>
+    </item>
+    
+  </channel>
+</rss>

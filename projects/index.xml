@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured Projects on Outliers</title>
+    <link>/projects/</link>
+    <description>Recent content in Featured Projects on Outliers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sounds of Mumbai</title>
+      <link>/projects/som/</link>
+      <pubDate>Mon, 16 Apr 2018 03:46:22 -0400</pubDate>
+      
+      <guid>/projects/som/</guid>
+      <description>Hello ji kaise ho</description>
+    </item>
+    
+    <item>
+      <title>Bharati</title>
+      <link>/projects/bharati/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/bharati/</guid>
+      <description>Medium Editor You know, the Medium Editor library is awesome. Just great. But there is a missing feature that some people would like to have.
+It&amp;rsquo;s called Markdown. @IonicaBizau created a Medium Editor extension that adds this missing feature.
+ Walking on water and developing software from a specification are easy if both are frozen. Edward Berard
+ Let&amp;rsquo;s test up the elements.
+ First Computer Bug In 1947, Grace Murray Hopper was working on the Harvard University Mark II Aiken Relay Calculator (a primitive computer).</description>
+    </item>
+    
+    <item>
+      <title>Indecoded</title>
+      <link>/projects/indecoded/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/indecoded/</guid>
+      <description>Arey re</description>
+    </item>
+    
+    <item>
+      <title>Shhh! Sex</title>
+      <link>/projects/shhh/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/shhh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Heritage Lab</title>
+      <link>/projects/heritage/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/heritage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual KGP</title>
+      <link>/projects/vkgp/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/vkgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

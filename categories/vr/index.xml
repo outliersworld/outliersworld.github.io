@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vr on Outliers</title>
+    <link>/categories/vr/</link>
+    <description>Recent content in Vr on Outliers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual KGP</title>
+      <link>/projects/vkgp/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/vkgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
