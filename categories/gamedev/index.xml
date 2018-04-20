@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>Public Data Files</title>
-      <link>/resources/public-data-files/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/resources/public-data-files/</guid>
-      <description>Here I will show you some public data files</description>
-    </item>
-    
-    <item>
       <title>Virtual KGP</title>
       <link>/projects/vkgp/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/projects/vkgp/</guid>
-      <description></description>
+      <description>Wouldn&amp;rsquo;t it be exciting to have your college reunion at the same canteen you used to hang out with your friends in the college days? Technology can enable us to capture and store spatial experiences today that can be revisited years later, even if that space might not be the same in real life.
+Prateek Srivastava and Siddharth Jindal are undergrads from IIT Kharagpur who are working on a Virtual Reality experience at SAVR Lab, Dept of Industrial and System Engineering.</description>
     </item>
     
   </channel>

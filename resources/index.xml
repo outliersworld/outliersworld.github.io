@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Public Data Files</title>
-      <link>/resources/public-data-files/</link>
+      <title>Indan Public Open Data To Use In Your Next Project</title>
+      <link>/resources/open-data-sources/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/resources/public-data-files/</guid>
-      <description>Here I will show you some public data files</description>
+      <guid>/resources/open-data-sources/</guid>
+      <description> Will be constantly updated. Send us a link that you think should be added here
+1. Smart Cities Tracker 2. Budget Data, India 3. Villages Data 4. Election Data </description>
     </item>
     
   </channel>

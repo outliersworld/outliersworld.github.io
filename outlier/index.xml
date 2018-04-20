@@ -11,5 +11,104 @@
 	<atom:link href="/outlier/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Ankita Diwan</title>
+      <link>/outlier/ankita-diwan/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/ankita-diwan/</guid>
+      <description>Ankita is a Product Manager and a graduate from IIT Kharagpur. She is driven by creativity and finds the world of abstractions home.</description>
+    </item>
+    
+    <item>
+      <title>Ashris Choudhury</title>
+      <link>/outlier/ashris-choudhury/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/ashris-choudhury/</guid>
+      <description>Ashris is a graduate from IIT Kharagpur pursuing a visiting studentship at MIT Media Lab. He doesn&amp;rsquo;t like to call himself either a techie or a designer because he thinks words start defining people rather than the other way around. He likes to have fun with tools – digital or otherwise. He will be working with Hindustan Times, How India Lives and Live Mint shortly as a Data Journalism Fellow.</description>
+    </item>
+    
+    <item>
+      <title>Ishaan Dass</title>
+      <link>/outlier/ishaan-dass/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/ishaan-dass/</guid>
+      <description>Ishaan is a graduate of industrial design from the National Institute of design, India. He is interested in a variety of design disciplines and directions; diversity in his work is a personal goal. He appreciates simplicity and believes that less is more. Through the medium of design, Ihe would like to create positive change.</description>
+    </item>
+    
+    <item>
+      <title>Kalyani Tupkary</title>
+      <link>/outlier/kalyani-tupkary/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/kalyani-tupkary/</guid>
+      <description>Kalyani is a designer from the National Institute of Design, India. She loves simple products that tell stories. Her classroom projects lay emphasis on the design process and involve simple changes to transform the design. She describes herself as a colour obsessed lettering aficionado with profound love for sketchbooks. Analog medium fascinates her and she is ever ready to get hands dirty.</description>
+    </item>
+    
+    <item>
+      <title>Medhavi Gandhi</title>
+      <link>/outlier/medhavi-gandhi/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/medhavi-gandhi/</guid>
+      <description>Medhavi has been working to revive the traditional arts/culture of India since 2009. While her work centres around heritage-education, developing artistic capacity building with a focus on rural enterprise development, youth entrepreneurship, cultural and arts exchanges and using folk arts for campaigning and communication.</description>
+    </item>
+    
+    <item>
+      <title>Prateek Srivastava</title>
+      <link>/outlier/prateek-srivastava/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/prateek-srivastava/</guid>
+      <description>Prateek Srivastava is an undergraduate student at IIT Kharagpur who works in the field of mixed reality. His technical skills complement his artistic acumen to help him look at the world in a unique way.</description>
+    </item>
+    
+    <item>
+      <title>Rucha Joshi</title>
+      <link>/outlier/rucha-joshi/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/rucha-joshi/</guid>
+      <description>Rucha is an experience designer. She studied product design at the National Institute of Design, India. She excels in building narratives, research and information architecture. She&amp;rsquo;s interested in human centric design, system-mapping and-analysis and speculative design. She loves to debate and learn new languages, while harbouring a secret hope to be a broadway star one day.</description>
+    </item>
+    
+    <item>
+      <title>Siddharth Jindal</title>
+      <link>/outlier/siddharth-jindal/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/siddharth-jindal/</guid>
+      <description>Siddharth Jindal is an undergraduate student at IIT Kharagpur who works in the field of mixed reality. His technical skills complement his artistic acumen to help him look at the world in a unique way.</description>
+    </item>
+    
+    <item>
+      <title>Srayana Sanyal</title>
+      <link>/outlier/srayana-sanyal/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/srayana-sanyal/</guid>
+      <description>Srayana is currently working as a UX Designer at Microsoft India Development Centre. Apart from interaction and product design, her interests lie in typography, technology, science, history, crafts, travel and food.</description>
+    </item>
+    
+    <item>
+      <title>Srinivasa Chakravarthy</title>
+      <link>/outlier/srinivasa-chakravarthy/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/srinivasa-chakravarthy/</guid>
+      <description>Prof. Srinivasa Chakravarthy is a Professor at IIT Madras in Computational Neuroscience Laboratory. He has worked extensively on many interesting projects in the field of neuroscience, cardiology, pattern recognition and typography.</description>
+    </item>
+    
+    <item>
+      <title>Tapan Babbar</title>
+      <link>/outlier/tapan-babbar/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/outlier/tapan-babbar/</guid>
+      <description>Tapan Babbar is a UX Engineer based in Delhi who creates projects at the intersection of tourism, technology and design.</description>
+    </item>
+    
   </channel>
 </rss>

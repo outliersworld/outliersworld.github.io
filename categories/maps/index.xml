@@ -17,7 +17,8 @@
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/projects/indecoded/</guid>
-      <description>Arey re</description>
+      <description>Indecoded presents a simple interface to explore data visualization via cartograms. On clicking any of 14 parameters like Literacy, GDP, HDI or GDP/Capita, the Indian map distorts to show the effect of the parameter on the individual states.
+As the transformation is animated, one can observe the gradual change in data as transition happens between variables. The colors change according to the ranks. Blue indicates high index (high population, high literacy) and Red indicates low index (low population, low literacy).</description>
     </item>
     
   </channel>

@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/projects/indecoded/</loc>
+    <loc>/resources/open-data-sources/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/public-data-files/</loc>
+    <loc>/projects/indecoded/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
@@ -45,6 +45,11 @@
   <url>
     <loc>/categories/web/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outlier/ankita-diwan/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
@@ -103,6 +108,11 @@
   </url>
   
   <url>
+    <loc>/articles/solving-indias-problems-through-interaction-design/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/outlier/srayana-sanyal/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
@@ -118,12 +128,19 @@
   </url>
   
   <url>
-    <loc>/articles/interaction-design-in-india/</loc>
+    <loc>/categories/analysis/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/analysis/</loc>
+    <loc>/outliers/ankita-diwan/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/article/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -154,6 +171,12 @@
   
   <url>
     <loc>/categories/d3/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/data/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -220,12 +243,18 @@
   
   <url>
     <loc>/outliers/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/outliers/prateek-srivastava/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/resource/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -257,11 +286,6 @@
   <url>
     <loc>/categories/system-design/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

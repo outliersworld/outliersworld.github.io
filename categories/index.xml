@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Article</title>
+      <link>/categories/article/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Audio</title>
       <link>/categories/audio/</link>
       <pubDate>Mon, 16 Apr 2018 03:46:22 -0400</pubDate>
@@ -62,6 +71,15 @@
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/categories/data/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/categories/data/</guid>
       <description></description>
     </item>
     
@@ -116,6 +134,15 @@
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>/categories/resource/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/categories/resource/</guid>
       <description></description>
     </item>
     

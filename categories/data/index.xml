@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Outliers</title>
+    <link>/categories/data/</link>
+    <description>Recent content in Data on Outliers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indan Public Open Data To Use In Your Next Project</title>
+      <link>/resources/open-data-sources/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/resources/open-data-sources/</guid>
+      <description> Will be constantly updated. Send us a link that you think should be added here
+1. Smart Cities Tracker 2. Budget Data, India 3. Villages Data 4. Election Data </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -81,10 +81,9 @@
                         <div class="inner pt3">
                             <header class="major">
                                 
-                                <h1 class="tuck-left">Virtual KGP</h1>
+                                <h1>Virtual KGP</h1>
                                 
-                                <a class="button visit-link tuck-right" href="https://www.youtube.com/watch?v=kgFc0A48PC4">Visit Project</a>
-                                
+                                <div><a class="button my2" href="https://www.youtube.com/watch?v=kgFc0A48PC4">Visit Project</a></div>
                                 
                                 
                                 <div class="outliers-list">      
@@ -99,7 +98,7 @@
                                 </div>
                                 
                                 
-                                <div class="project-description">1Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</div>
+                                <div class="project-description mt2">Virtual KGP is a VR experience that will let people from all around the world teleport themselves to the IIT Kharagpur campus. Through the application, users can take virtual tours and experience the campus life. Prateek and Siddharth have created hyper-realistic 3D model of the entire campus where the user will be able to interact with other characters and objects in the experience.</div>
                                 
                                 
 
@@ -116,10 +115,251 @@
                             </header>
                             </div>
                             
-                                <span class="image main"><img src="/img/projects/pic07.jpg" alt="" /></span>
+                                <span class="image main"><img src="/img/projects/vkgp.jpg" alt="" /></span>
                             
-                            <div class="inner py3">
+                            <div id="procontent" class="inner py3">
                             
+
+<p>Wouldn&rsquo;t it be exciting to have your college reunion at the same canteen you used to hang out with your friends in the college days? Technology can enable us to capture and store spatial experiences today that can be revisited years later, even if that space might not be the same in real life.</p>
+
+<p>Prateek Srivastava and Siddharth Jindal are undergrads from IIT Kharagpur who are working on a Virtual Reality experience at SAVR Lab, Dept of Industrial and System Engineering.</p>
+
+<p>The decisions that were taken by Prateek and Siddharth in making this project can demonstrate how creative projects require a lot of ideation before being built.</p>
+
+<p>The front-end of the project (3D modelling) is handled by Prateek and the back-end (character interaction logic) is handled by Siddharth.</p>
+
+<h3 id="what-to-model">What to model?</h3>
+
+<p>IIT Kharagpur campus is over 2000 acres in size. Hence, modelling the whole space would be impractical. Hence the team decided to model only the areas of high social interaction such as the academic building, the 2.2-kilometre long road around the lake and the Halls of Residences.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/model.png" alt="Modelling Campus Roads in Blender | Courtesy: Prateek Srivastava" />
+    
+    
+    <figcaption>
+        <p>
+        Modelling Campus Roads in Blender | Courtesy: Prateek Srivastava
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="attention-to-details">Attention to Details</h3>
+
+<p>To make the experience realistic, the model has been populated with animated characters like students, professors, daily workers, security guards with custom human interactions to make the immersion stronger.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/comp1.jpg" alt="Left: Real View of IIT KGP&#39;s Radhakrishnan Hall of Residence&#39;s corridor | Right: Virtual KGP&#39;s Virtual Render" />
+    
+    
+    <figcaption>
+        <p>
+        Left: Real View of IIT KGP&#39;s Radhakrishnan Hall of Residence&#39;s corridor | Right: Virtual KGP&#39;s Virtual Render
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>The interaction between the user and the objects in the experience are enhanced by providing the ability to move around and hold objects in virtual IIT KGP, giving more immersive first-person experience.</p>
+
+<h3 id="how-is-the-application-played">How is the application played?</h3>
+
+<p>The user will be represented by a first person figure. There are collision meshes around objects in the scene that trigger events when the user avatar gets close to them.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/comp2.jpg" alt="Left: Real View of IIT KGP&#39;s Lal Bahadur Shastri Hall of Residence | Right: Virtual KGP&#39;s Virtual Render" />
+    
+    
+    <figcaption>
+        <p>
+        Left: Real View of IIT KGP&#39;s Lal Bahadur Shastri Hall of Residence | Right: Virtual KGP&#39;s Virtual Render
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="is-the-environment-dynamic">Is the environment dynamic?</h3>
+
+<p>The movement of sun along with automatic day-night cycles are controlled by level blueprints and appropriate time ticks.</p>
+
+<h3 id="interaction-with-other-characters">Interaction with other characters</h3>
+
+<p>There are on-screen dialogues, where the player can choose from a set of statements and expect a predefined answer from the actor.</p>
+
+<p>Prateek on working prior to Virtual KGP had made a video titled<br />
+<a href="https://www.youtube.com/watch?v=Xt6a9YFjAjY">IIT KGP | Game of Thrones Cover</a> which visualizes landmarks of IIT KGP as if they were placed in the GoT world.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/ss.png" alt="Screenshot from Prateek&#39;s IITKGP | Game of Thrones video | Source: YouTube" />
+    
+    
+    <figcaption>
+        <p>
+        Screenshot from Prateek&#39;s IITKGP | Game of Thrones video | Source: YouTube
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="interview">Interview</h2>
+
+<blockquote>
+<h4 id="can-you-tell-us-the-story-behind-your-project-how-did-you-come-up-with-the-idea-of-experimenting-with-vr-what-are-your-inspirations-for-creativity">Can you tell us the story behind your project? How did you come up with the idea of experimenting with VR? What are your inspirations for creativity?</h4>
+</blockquote>
+
+<p>Virtual KGP is a project born out of our love for KGP. Being able to view KGP in a way more than just photos was the motivation of the idea of modelling KGP in 3D form.</p>
+
+<p>Then we realized that this feeling is quite common even for the alumni. And how exciting it would be for someone to visit their alma mater virtually, whenever they wish. This was when the idea for VR came into the picture. A VIRTUAL KGP campus.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/concept.jpg" alt="Concept Video Snapshot" />
+    
+    
+    <figcaption>
+        <p>
+        Concept Video Snapshot
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>We&rsquo;re lucky to have found Mr Anirban Sanatara who introduced us to the very enthusiastic educator Prof. J Maiti who is actively working in the field of Virtual reality. He showed deep interest in the idea and agreed to mentor us for continuing the project in SAVR lab, Dept of Industrial and System Engineering, IIT Kharagpur. We have been working for 3 months now, and the project has grown fruitful under his guidance.</p>
+
+<blockquote>
+<h4 id="how-long-did-it-take-you-to-make-the-prototype-and-how-is-the-typical-process-like-for-example-do-you-take-multiple-iterations-to-arrive-at-the-final-version-or-do-you-prefer-a-single-planned-version-of-your-idea">How long did it take you to make the prototype and how is the typical process like, for example : Do you take multiple iterations to arrive at the final version or do you prefer a single planned version of your idea?</h4>
+</blockquote>
+
+<p>It took one month to make the first prototype of TIKKA, a tea and snacks shop at IIT KGP. We modelled the Tikka shop, SBI ATM and nearby shops, followed by texturing in Blender. We then imported the models in Unreal engine, created the whole environment followed by proper lighting and detailing. During this, we found out what all things that we can do with the resources we have. That&rsquo;s how we plan the later steps for the project. We work on the basic outline of the idea and make it better as we progress.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/tikka.png" alt="Imported Model of Tikka on Unreal Engine | Courtesy: Prateek Srivastava" />
+    
+    
+    <figcaption>
+        <p>
+        Imported Model of Tikka on Unreal Engine | Courtesy: Prateek Srivastava
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<blockquote>
+<h4 id="what-are-the-specific-tools-you-use-to-do-these-projects-how-long-did-it-take-to-master-them-and-develop-your-own-style-we-know-of-the-game-of-thrones-styled-video-of-the-campus-you-made-which-was-very-impressive-was-it-the-precursor-to-virtual-kgp">What are the specific tools you use to do these projects? How long did it take to master them and develop your own style? We know of the Game of Thrones styled video of the campus you made which was very impressive, was it the precursor to Virtual KGP?</h4>
+</blockquote>
+
+<p>We use 3D modelling software like Blender, Autodesk 3ds Max and SketchUp Pro for making the models of the buildings, roads and various other objects for detailing. We use Unreal engine for developing realistic environments using those 3D models. For character modelling, we are using Adobe Fuse.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/char.png" alt="Screenshot from character modelling in Adobe Fuse | Courtesy: Prateek Srivastava" />
+    
+    
+    <figcaption>
+        <p>
+        Screenshot from character modelling in Adobe Fuse | Courtesy: Prateek Srivastava
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Prateek: I&rsquo;ve been working on Blender- a 3D modelling software for 4 years. I started it when I was in class 12th, watched few YouTube tutorials and then started modelling things on my own. This was something new to me, and quite addictive when you start.</p>
+
+<p>IIT KGP Game of Thrones cover was an idea that I got when I was in my first year of college, after watching the opening credit sequence of the famous TV series, Game of Thrones. Virtual KGP was, in fact, a recent idea but yes, the Game of Thrones cover can surely be considered as a major push because it helped in determining the initial steps of the project like 3D modelling of the buildings, characters, etc. It gave some hope that a project like this is possible with what all resources we have.</p>
+
+<blockquote>
+<h4 id="what-would-your-advice-to-young-learners-be-who-want-to-do-projects-like-you-how-does-one-get-started-should-they-learn-skills-first-or-should-they-work-on-looking-for-a-field-that-they-are-passionate-about-before-learning-the-skills">What would your advice to young learners be who want to do projects like you? How does one get started - should they learn skills first or should they work on looking for a field that they are passionate about before learning the skills?</h4>
+</blockquote>
+
+<p>For doing something big, you need to start from small. There are many creative people who have some crazy ideas in their minds but they never get a chance to make something out of that idea because of lack of resources, team, time, etc, because of which they drop it. We didn&rsquo;t have proper resources and a team, but as we started working on the first prototype with what all we had, we found our way.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/work.jpg" alt="Virtual Reality Lab, IIT Kharagpur – Where it all happened | Courtesy: Prateek Srivastava" />
+    
+    
+    <figcaption>
+        <p>
+        Virtual Reality Lab, IIT Kharagpur – Where it all happened | Courtesy: Prateek Srivastava
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>So, if you have an idea, you need to do some groundwork research on how to progress with it. Proper planning is always helpful. If you need some specific skills for your project learn it by yourself, there are plenty of tutorials on the internet.</p>
+
+<blockquote>
+<h4 id="what-are-the-projects-you-would-want-to-see-happen-in-india-what-is-your-vision-about-the-country-how-do-we-use-our-creativity-efficiently">What are the projects you would want to see happen in India? What is your vision about the country - how do we use our creativity efficiently?</h4>
+</blockquote>
+
+<p>Creativity is the trait which we believe every student must develop. Earlier students exclusively studying art were expected to excel in design related ideas, but now with the advent of technology, it has become tremendously easy for students to take up interdisciplinary and learn various new technologies and combine them with an art form.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/vkgp/pres.jpg" />
+    
+    
+</figure>
+
+
+<p>We consume so many learning resources on a daily basis, so creating something new is our unique addition to this world. Moreover, it has a reflection of our thinking which serves as a way to communicate our ideas to others.</p>
+
+<p>Indian youth must practice working on ideas in form of personal projects. Students must find people who appreciate their ideas and work with them.</p>
+
+<p>Moreover, every student must understand that whatever course they are studying, there are immense opportunities to showcase their creativity, combining it with any of their interest.</p>
+
+<h2 id="take-away">Take Away</h2>
+
+<p>Virtual KGP is representative of the projects that show how new advanced possibilities like VR can be applied in novel use cases.</p>
+
+<p>This project tells us that innovation requires collaboration across various skills – in this case, Prateek brought his 3D modelling and movie making skills while Siddharth brought his programming skills in giving the application a logic. IIT provided the infrastructure and the Professors provided the expertise – this is what universities and centres of creativity were meant to do – act as nodes for different skills to meet at a confluence. It is important to restate the obvious because we often lose perspective on what education system in this country is supposed to be.</p>
+
                         </div>
                     </section>
                     <section id="two">
@@ -132,7 +372,7 @@
                                     
                                     <div class="6u project-maker">
                                             <a class="nodot" href="/outliers/prateek-srivastava">
-                                    <img class="project-maker__img" src="/img/outlier/ashris-choudhury.jpg"/>
+                                    <img class="project-maker__img" src="/img/outlier/prateek-srivastava.jpg"/>
                                     
                                     <div class="lolita">
                                             Prateek Srivastava</div>
@@ -144,7 +384,7 @@
                                     
                                     <div class="6u project-maker">
                                             <a class="nodot" href="/outliers/siddharth-jindal">
-                                    <img class="project-maker__img" src="/img/outlier/ashris-choudhury.jpg"/>
+                                    <img class="project-maker__img" src="/img/outlier/siddharth-jindal.jpg"/>
                                     
                                     <div class="lolita">
                                             Siddharth Jindal</div>

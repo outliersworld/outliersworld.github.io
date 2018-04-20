@@ -81,10 +81,9 @@
                         <div class="inner pt3">
                             <header class="major">
                                 
-                                <h1 class="tuck-left">Indecoded</h1>
+                                <h1>Indecoded</h1>
                                 
-                                <a class="button visit-link tuck-right" href="https://indecoded.github.io">Visit Project</a>
-                                
+                                <div><a class="button my2" href="https://indecoded.github.io">Visit Project</a></div>
                                 
                                 
                                 <div class="outliers-list">      
@@ -97,7 +96,7 @@
                                 </div>
                                 
                                 
-                                <div class="project-description">5Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</div>
+                                <div class="project-description mt2">A cartogram is a distorted map shows the impact of data on space. So, if a cartogram with Population were to be visualized, Uttar Pradesh would swell up because of high population and Odisha would shrink because of its low population.  On clicking any of 14 parameters like Literacy, GDP, HDI or GDP/Capita, the map distorts to show the effect of the parameter on the individual states.</div>
                                 
                                 
 
@@ -118,10 +117,144 @@
                             </header>
                             </div>
                             
-                                <span class="image main"><img src="/img/projects/pic07.jpg" alt="" /></span>
+                                <span class="image main"><img src="/img/projects/indecoded.jpg" alt="" /></span>
                             
-                            <div class="inner py3">
-                            <p>Arey re</p>
+                            <div id="procontent" class="inner py3">
+                            
+
+<p>Indecoded presents a simple interface to explore data visualization via cartograms. On clicking any of 14 parameters like Literacy, GDP, HDI or GDP/Capita, the Indian map distorts to show the effect of the parameter on the individual states.</p>
+
+<p>As the transformation is animated, one can observe the gradual change in data as transition happens between variables. The colors change according to the ranks. Blue indicates high index (high population, high literacy) and Red indicates low index (low population, low literacy).</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/indecoded/landing.jpg" alt="Screenshot of the landing page" />
+    
+    
+    <figcaption>
+        <p>
+        Screenshot of the landing page
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<blockquote>
+<p>&ldquo;It&rsquo;s not about what you say, but how you say it&rdquo;, the creator remarks on his take on this project. &ldquo;I remember having to memorize maps for my Geography exams as a kid and I thought to myself, can there not be a better way of reading all this? Indecoded was sort of something I wish I had back in the days of Board exams.&rdquo;, he explains.</p>
+</blockquote>
+
+<p>Ashris decided to disable the website on mobile devices because of interaction issues. He talks about this decision with us.</p>
+
+<blockquote>
+<p>&ldquo;Designing for mobile is a whole different game than designing for the web. The experience just isn&rsquo;t the same even if you can emulate the same functionalities. Even if the site technically worked on mobiles, it was hard to select the buttons or see the animation since the vertical layout on phones would force the user to scroll down. It just felt awkward on phones, so I thought let&rsquo;s ditch the phones. Maybe if I was more experienced, I could have come up with a better interaction.&rdquo;</p>
+</blockquote>
+
+
+<figure>
+    
+        <img src="/../img/projects/indecoded/population.jpg" alt="Population cartogram" />
+    
+    
+    <figcaption>
+        <p>
+        Population cartogram
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Underneath the pretty front-end lies what Ashris calls &ldquo;a jungle of mess&rdquo;. The website uses SVG (Scalable Vector Graphics) format to visualize the states. Ashris used this format because SVG diagrams can be controlled programmatically. To create the cartograms, he used a cartogram software called <a href="https://scapetoad.choros.ch">ScapeToad</a>.</p>
+
+<p>The project is open sourced and the source code can be found <a href="https://github.com/indecoded/indecoded.github.io">here</a></p>
+
+<h2 id="ashris-speaks">Ashris Speaks</h2>
+
+<blockquote>
+<h4 id="how-did-you-come-up-with-this-idea">How did you come up with this idea?</h4>
+</blockquote>
+
+<p>The idea of cartograms isn&rsquo;t new. I had seen a lot of cartograms made for the world on Facebook. One day my homie Bishnu sends me this dope <a href="http://metrocosm.com/how-we-share-the-world/">site</a> and I get interested in making something similar for India. Luckily they also had an article on how to make cartograms. Most of the code for Indecoded was based on their article.</p>
+
+
+<figure>
+    
+        <img src="/../img/projects/indecoded/world.jpg" alt="World Cartogram showing Population distribution in the world | Credits: Benjamin D. Hennig" />
+    
+    
+    <figcaption>
+        <p>
+        World Cartogram showing Population distribution in the world | Credits: Benjamin D. Hennig
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<blockquote>
+<h4 id="you-are-probably-tired-answering-this-question-but-even-though-you-are-an-architecture-student-so-how-do-you-know-how-to-code">You are probably tired answering this question but, even though you are an Architecture student, so how do you know how to code?</h4>
+</blockquote>
+
+<p>With the tools available online today, anyone can learn how to code. I don&rsquo;t think what you learn in college should define what you can or should do.</p>
+
+<p>I started with just copy-pasting code. I didn&rsquo;t even know what I was doing then. But gradually by trial and error, I figured out how coding works and then gained some confidence to write my own code.</p>
+
+<p>I took fancy to web development because you get a direct visual output and there&rsquo;s this whole feeling of &ldquo;Wow, I just made that thing move, appear or whatever on screen&rdquo; which sort of motivates you to do more.</p>
+
+<p>The first such hacky website I made was 2048 KGP Style, a ripoff of the popular 2048 game with the numbers replaced with images of Departments in IIT. It was such a trivial thing but it made me wildly happy because I made it ^_^</p>
+
+<blockquote>
+<h4 id="what-do-you-think-about-the-data-visualization-scene-in-india">What do you think about the data visualization scene in India?</h4>
+</blockquote>
+
+<p>It is very nascent. It is only now that data viz, especially in its interactive form has been becoming relevant. Hindustan Times and Quint have been doing some really creative stuff of late which I am impressed by.</p>
+
+<p>But then, I am not proud enough to believe that web data visualization is the &ldquo;true&rdquo; data visualization or anything. Print media has been making great content before the shiny websites came.</p>
+
+<p>It will take some time not only for journalists to master the web but also for the readers to get used to this new form of media.</p>
+
+<blockquote>
+<h4 id="what-are-your-inspirations">What are your inspirations?</h4>
+</blockquote>
+
+<p>Back in IIT, I was inspired by projects by Vivek Aithal, a senior at my college. I always wanted to do a project like him and Indecoded I guess was one such attempt.</p>
+
+<p>Also, I was inspired by projects done by MIT Media Lab and I was trying to do projects to make a portfolio. So that drive was also conducive to me getting off my comfort zone and doing cool shizz.</p>
+
+<blockquote>
+<h4 id="what-do-you-think-about-the-creative-scene-in-india">What do you think about the creative scene in India?</h4>
+</blockquote>
+
+<p>It is coming in a strong and big way. The Internet has unleashed the creative energies, I feel. For long we have suffered from hackneyed content, both on television and movies. As a result, we rarely thought of doing something out of the box, experiment or create our own style of doing things.</p>
+
+<p>Look at the scene now – such great content in music, comedy, short films. How is this happening? Creativity, as Matt Ridley says is &ldquo;Ideas Having Sex&rdquo;. We are seeing ideas merge and fuse to produce new ideas. It&rsquo;s like &ldquo;I have a technology&rdquo; + &ldquo;I have a design&rdquo;&hellip; &ldquo;Aunhh&rdquo; = &ldquo;Technology Design&rdquo;, like the PPAP dude says.</p>
+
+<p>What TVF and AIB did to the video scene in India should happen to technology and design. They simply had fun, got rid of the academic way of doing things and created a unique Indian version of comedy. They started with low budget videos, had fun, figured out the rigorous parts eventually like good camera control, improved script writing and all that – now they are a giant-ass production company.</p>
+
+<p>That is what we need – the tech people and the design people to maybe stop worrying about their papers, publications, h-indexes or whatever and just come out and have fun – look at the world with eyes filled with curiosity and wonder.</p>
+
+<p>A generation of uninspiring standardized education has made us forget what having fun while learning is like and we need to reawaken that in us.</p>
+
+<blockquote>
+<h4 id="so-what-do-you-recommend-the-plan-should-be-to-transform-india-into-a-creative-place">So what do you recommend the plan should be to transform India into a creative place?</h4>
+</blockquote>
+
+<p>Start respecting the creative people first. India does very little to nurture its creative talent. It is almost like we have tried to seal it up and creativity is still somehow leaking through the cracks. Imagine if we could open the gates and allow creativity to flourish.</p>
+
+<p>There are two approaches - top-down or bottom-up. Top-Down would be to have our broken education system fixed, encouraging individual initiatives and all that. The government is doing its bit there. The second approach is Bottom-Up which starts at home. It is something we can do individually. We should solve the big old Indian paradox of &ldquo;Big achievements, Low Risk&rdquo; mentality. We have to be comfortable with taking risks, trying new things, appreciate our kids when they want to learn something new.</p>
+
+<p>Outliers is an attempt to gradually do this. We want to provide a platform for the creative right-brainers of this nation because we feel it has been squandered for long.</p>
 
                         </div>
                     </section>
