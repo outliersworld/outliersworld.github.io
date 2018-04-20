@@ -12,12 +12,30 @@
     
     
     <item>
+      <title>Data Visualization</title>
+      <link>/categories/data-visualization/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/categories/data-visualization/</guid>
+      <description>Data what else do you think</description>
+    </item>
+    
+    <item>
       <title>Web</title>
       <link>/categories/web/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/web/</guid>
       <description>This is the best part</description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>/categories/analysis/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/categories/analysis/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,15 +62,6 @@
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/d3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Visualization</title>
-      <link>/categories/data-visualization/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/categories/data-visualization/</guid>
       <description></description>
     </item>
     
@@ -89,6 +98,15 @@
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction</title>
+      <link>/categories/interaction/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/categories/interaction/</guid>
       <description></description>
     </item>
     

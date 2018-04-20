@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured Articles on Outliers</title>
+    <link>/articles/</link>
+    <description>Recent content in Featured Articles on Outliers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Interaction Design is Crucial to India</title>
+      <link>/articles/interaction-design-in-india/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
+      
+      <guid>/articles/interaction-design-in-india/</guid>
+      <description>It&amp;rsquo;s very important, this interaction design</description>
+    </item>
+    
+  </channel>
+</rss>

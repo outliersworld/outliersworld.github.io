@@ -6,10 +6,19 @@
     <description>Recent content in Ashris Choudhury on Outliers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
 	<atom:link href="/outliers/ashris-choudhury/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Indecoded</title>
+      <link>/projects/indecoded/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/indecoded/</guid>
+      <description>Arey re</description>
+    </item>
     
   </channel>
 </rss>

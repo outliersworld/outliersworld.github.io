@@ -6,10 +6,19 @@
     <description>Recent content in Prateek Srivastava on Outliers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
 	<atom:link href="/outliers/prateek-srivastava/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual KGP</title>
+      <link>/projects/vkgp/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/projects/vkgp/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

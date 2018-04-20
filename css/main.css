@@ -50,10 +50,18 @@ width:100%;
 }
 .project-maker{
 	text-align:center;
+	margin-top:15px;
 }
 .project-maker__info{
 	display:inline-block;
 	
+}
+.project-description{
+	clear:both;
+}
+.outliers-list{
+	float:left;
+	padding-top:1em;
 }
 .project-maker__img{
 	width:80px;
@@ -1197,7 +1205,9 @@ width:100%;
 	}
 
 	@media screen and (max-width: 480px) {
-
+		.outliers-list{
+			padding-top:0;
+		}
 		.row > * {
 			padding: 0 0 0 1.25em;
 		}
@@ -1726,13 +1736,14 @@ a.nodot{
 		font-style: italic;
 	}
 
-	
+	b.sp{
+		font-size:1.5em;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
 		line-height: 1.65;
-		margin: 0 0 1em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1850,12 +1861,13 @@ a.nodot{
 	}
 
 	header.major {
+		width:100%;
 		margin-bottom: 2em;
 	}
 
 		header.major > :first-child {
 			margin-bottom: 0;
-			width: calc(100% + 0.5em);
+			width: 100%;
 		}
 
 			header.major > :first-child:after {
@@ -1863,7 +1875,7 @@ a.nodot{
 				background-color: #ffffff;
 				display: block;
 				height: 2px;
-				margin: 0.325em 0 0.5em 0;
+				margin-top:-5px;
 				width: 100%;
 			}
 
@@ -2295,8 +2307,26 @@ a.nodot{
 .pt3{
 	padding-top:3em;
 }
+.pt2{
+	padding-top:2em;
+}
+.pt1{
+	padding-top:1em;
+}
+.py1{
+	padding:1em 0em;
+}
 .py4{
 	padding:4em 0;
+}
+.py2{
+	padding:2em 0;
+}
+.mthoda{
+	margin:8px;
+}
+.lgimg{
+	width:200px;
 }
 /* List */
 
@@ -2836,7 +2866,7 @@ a.nodot{
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		border-top: 0 !important;
+		
 	}
 
 	.tile {
@@ -2888,9 +2918,6 @@ a.nodot{
 	letter-spacing: inherit!important;
 	
 }
-		.tiles + * {
-			border-top: 0 !important;
-		}
 
 		.tiles article {
 			-moz-align-items: center;
@@ -2992,7 +3019,10 @@ a.nodot{
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 55%;
 			}
-
+			.tiles article:nth-last-child(1):nth-child(odd) 
+			{
+				width:100%;
+			}
 			.tiles article:nth-child(6n - 5):before {
 				background-color: #6fc3df;
 			}
@@ -3475,11 +3505,7 @@ a.nodot{
 
 		@media screen and (max-width: 736px) {
 
-			#header {
-				height: 2.75em;
-				line-height: 2.75em;
-			}
-
+		
 				#header .logo {
 					padding: 0 1em;
 				}
@@ -3786,7 +3812,17 @@ a.nodot{
 			background-color: transparent;
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
-
+.tuck-left{
+	float:left;
+	display: inline-block;
+}
+.tuck-right{
+	float:right;
+	display: inline-block;
+}
+.visit-link{
+	transform:translateY(-100%);
+}
 /* Contact */
 
 	#contact {

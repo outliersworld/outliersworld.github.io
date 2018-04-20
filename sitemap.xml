@@ -13,7 +13,17 @@
   </url>
   
   <url>
+    <loc>/categories/data-visualization/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects/indecoded/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/public-data-files/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
@@ -38,12 +48,12 @@
   </url>
   
   <url>
-    <loc>/outliers/ashris-choudhury/</loc>
+    <loc>/outlier/ashris-choudhury/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/ashris-choudhury/</loc>
+    <loc>/articles/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
@@ -53,27 +63,27 @@
   </url>
   
   <url>
-    <loc>/outliers/ishaan-dass/</loc>
+    <loc>/outlier/ishaan-dass/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/kalyani-tupkary/</loc>
+    <loc>/outlier/kalyani-tupkary/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/medhavi-gandhi/</loc>
+    <loc>/outlier/medhavi-gandhi/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/</loc>
+    <loc>/outlier/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/prateek-srivastava/</loc>
+    <loc>/outlier/prateek-srivastava/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
@@ -83,28 +93,45 @@
   </url>
   
   <url>
-    <loc>/outliers/rucha-joshi/</loc>
+    <loc>/outlier/rucha-joshi/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/siddharth-jindal/</loc>
+    <loc>/outlier/siddharth-jindal/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/srayana-sanyal/</loc>
+    <loc>/outlier/srayana-sanyal/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/srinivasa-chakravarthy/</loc>
+    <loc>/outlier/srinivasa-chakravarthy/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/outliers/tapan-babbar/</loc>
+    <loc>/outlier/tapan-babbar/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/interaction-design-in-india/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/analysis/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/ashris-choudhury/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -127,12 +154,6 @@
   
   <url>
     <loc>/categories/d3/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/data-visualization/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -162,7 +183,31 @@
   </url>
   
   <url>
+    <loc>/categories/interaction/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/ishaan-dass/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/kalyani-tupkary/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/maps/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/medhavi-gandhi/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -175,7 +220,37 @@
   
   <url>
     <loc>/outliers/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/prateek-srivastava/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/rucha-joshi/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/siddharth-jindal/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/srayana-sanyal/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/srinivasa-chakravarthy/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,6 +262,12 @@
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/tapan-babbar/</loc>
+    <lastmod>2018-04-16T03:46:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   

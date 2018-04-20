@@ -43,6 +43,15 @@ It&amp;rsquo;s called Markdown. @IonicaBizau created a Medium Editor extension t
     </item>
     
     <item>
+      <title>Public Data Files</title>
+      <link>/resources/public-data-files/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/resources/public-data-files/</guid>
+      <description>Here I will show you some public data files</description>
+    </item>
+    
+    <item>
       <title>Shhh! Sex</title>
       <link>/projects/shhh/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -70,12 +79,12 @@ It&amp;rsquo;s called Markdown. @IonicaBizau created a Medium Editor extension t
     </item>
     
     <item>
-      <title></title>
-      <link>/outliers/ashris-choudhury/</link>
+      <title>Why Interaction Design is Crucial to India</title>
+      <link>/articles/interaction-design-in-india/</link>
       <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
       
-      <guid>/outliers/ashris-choudhury/</guid>
-      <description>Ashris is a good boy</description>
+      <guid>/articles/interaction-design-in-india/</guid>
+      <description>It&amp;rsquo;s very important, this interaction design</description>
     </item>
     
   </channel>

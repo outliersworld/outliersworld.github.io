@@ -11,5 +11,14 @@
 	<atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Public Data Files</title>
+      <link>/resources/public-data-files/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/resources/public-data-files/</guid>
+      <description>Here I will show you some public data files</description>
+    </item>
+    
   </channel>
 </rss>
