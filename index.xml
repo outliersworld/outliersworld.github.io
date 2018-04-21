@@ -31,16 +31,6 @@ The only ambiguity lies in the mismatch of sounds and shapes of the fonts.</desc
     </item>
     
     <item>
-      <title>Indan Public Open Data To Use In Your Next Project</title>
-      <link>/resources/open-data-sources/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/resources/open-data-sources/</guid>
-      <description> Will be constantly updated. Send us a link that you think should be added here
-1. Smart Cities Tracker 2. Budget Data, India 3. India&amp;rsquo;s Demographies 3. Villages Data 4. Election Data 5. Open Source Government Data </description>
-    </item>
-    
-    <item>
       <title>Indecoded</title>
       <link>/projects/indecoded/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -48,6 +38,16 @@ The only ambiguity lies in the mismatch of sounds and shapes of the fonts.</desc
       <guid>/projects/indecoded/</guid>
       <description>Indecoded presents a simple interface to explore data visualization via cartograms. On clicking any of 14 parameters like Literacy, GDP, HDI or GDP/Capita, the Indian map distorts to show the effect of the parameter on the individual states.
 As the transformation is animated, one can observe the gradual change in data as transition happens between variables. The colors change according to the ranks. Blue indicates high index (high population, high literacy) and Red indicates low index (low population, low literacy).</description>
+    </item>
+    
+    <item>
+      <title>Indian Public Open Data To Use In Your Next Project</title>
+      <link>/resources/open-data-sources/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/resources/open-data-sources/</guid>
+      <description> Will be constantly updated. Send us a link that you think should be added here
+1. Smart Cities Tracker 2. Budget Data, India 3. India&amp;rsquo;s Demographies 3. Villages Data 4. Election Data 5. Open Source Government Data </description>
     </item>
     
     <item>
