@@ -3033,8 +3033,8 @@ a.nodot{
 			}
 
 			.tiles article:hover:before {
-				background-color:black;
-				opacity: 0;
+				
+				opacity: 1;
 			}
 
 			.tiles article.is-transitioning {
