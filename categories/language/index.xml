@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initiative on Outliers</title>
-    <link>/categories/initiative/</link>
-    <description>Recent content in Initiative on Outliers</description>
+    <title>Language on Outliers</title>
+    <link>/categories/language/</link>
+    <description>Recent content in Language on Outliers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
-	<atom:link href="/categories/initiative/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/language/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/projects/kathabhidhana/</guid>
       <description>In an age where technology is becoming so flexible that we can make sense out of languages on a mathematical level and use the structure to create meaningful applications, keeping languages agile and technology-compatible is a necessity.
 What a shame that rich languages like Sanskrit have no smart way of learning like Duolingo or Memrise. It isn&amp;rsquo;t just language learning which is hampered because of lack of digitization but also a large section of our society cannot access to the wealth of information internet has to offer.</description>
-    </item>
-    
-    <item>
-      <title>The Heritage Lab</title>
-      <link>/projects/heritage/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/projects/heritage/</guid>
-      <description>In the recent past, the world has seen a paradigm shift in the concept of what a museum is. Museums are no longer just edifices accommodating historical artefact displays but instead, they are living thriving celebration of culture, both historical and contemporary.
-The situation in our nation, however, is abysmal. While other museums around the world are digitizing their collections and putting them online, most museums in India still lack a website or digital presence.</description>
     </item>
     
   </channel>

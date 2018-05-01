@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/projects/kathabhidhana/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects/shhh/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
@@ -109,6 +114,11 @@
   
   <url>
     <loc>/outlier/srinivasa-chakravarthy/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outlier/subhashish-panigrahi/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
@@ -220,6 +230,12 @@
   </url>
   
   <url>
+    <loc>/categories/language/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/maps/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
@@ -227,6 +243,12 @@
   
   <url>
     <loc>/outliers/medhavi-gandhi/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/open-source/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -275,6 +297,12 @@
   
   <url>
     <loc>/outliers/srinivasa-chakravarthy/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outliers/subhashish-panigrahi/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>

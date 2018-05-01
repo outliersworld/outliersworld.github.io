@@ -120,11 +120,29 @@
     </item>
     
     <item>
+      <title>Language</title>
+      <link>/categories/language/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/categories/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maps</title>
       <link>/categories/maps/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/categories/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>/categories/open-source/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/categories/open-source/</guid>
       <description></description>
     </item>
     
